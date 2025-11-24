@@ -12,7 +12,7 @@ variable "availability_zones" {
 variable "vpc_cidr" {
     description = "CIDR block for the 3-tier VPC"
     type        = string
-    default     = "0.0.0.0/16"
+    default     = "10.0.0.0/16"
 }
 variable "pub_sub_cidr" {
     description = "CIDR block for the public subnet"
