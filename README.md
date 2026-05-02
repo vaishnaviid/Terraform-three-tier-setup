@@ -1,7 +1,3 @@
 ﻿# Terraform-three-tier-setup
-                                                                                                            
-                                                                                                    
-                                                                                          
-                                                                        
-                                                                                                            
-          
+
+ 
